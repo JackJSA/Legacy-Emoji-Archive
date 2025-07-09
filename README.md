@@ -1,7 +1,6 @@
-# Emoji & Emoticon Archive
+# My Emoji & Emoticon Archive
 
-I've shared a collection of old and rare emojis and emoticons,  
-useful for designing icons or UI elements in various applications and websites.  
-Some of these icons are quite hard to find nowadays.
+A personal collection of funny, cute, and expressive emojis and GIFs I've gathered over time.  
+Feel free to use or fork.
 
-Feel free to explore or use them in your own projects!
+💬 😎 🤖 💥 🔥
