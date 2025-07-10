@@ -15,7 +15,7 @@ This project is intended for developers, designers, collectors, and digital arch
 
 ## 📌 Notes
 
-- All files are `.jpeg` or `.gif`, optimized for sharing and UI usage.
+- All files are `.png`, `.jpeg` or `.gif`, optimized for sharing and UI usage.
 - Each emoji is uniquely named for easier referencing and version tracking.
 - No AI-generated content — all files are real emoji artifacts from the wild.
 
